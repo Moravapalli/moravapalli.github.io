@@ -30,7 +30,7 @@ export function ExperienceSection() {
       type: "work",
       title: "Research Assistant",
       organization: "Asklepios Proresearch",
-      period: "Jul 2022 - Present",
+      period: "Jul 2022 - Mar 2023",
       description: [
         "Performing advanced image processing with OpenCV for medical imaging",
         "Researching and implementing algorithms for stroke detection from CT perfusion maps",
